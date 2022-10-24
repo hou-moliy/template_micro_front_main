@@ -21,7 +21,7 @@
 //   return key ? initialState[key] : initialState
 // }
 // export default actions;
-import globalRegister from './global-register'
+import globalRegister from "./global-register";
 export default {
-  globalRegister
-}
+  globalRegister,
+};
