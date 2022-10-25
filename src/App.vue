@@ -4,7 +4,6 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>|
       <router-link to="/subapp1">子应用1（vue）</router-link>
-      <router-link to="/subapp2">子应用2（yxms-user旧）</router-link>
     </nav>
     <router-view />
     <div id="container"></div>
